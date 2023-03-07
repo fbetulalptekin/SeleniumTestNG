@@ -11,7 +11,7 @@ import utilities.TestBaseCross;
 
 public class C01_PozitifLoginTestiCross extends TestBaseCross {
 
-    @Test(groups = "smoke")
+    @Test
     public void pozitifLoginTesti() {
         // qd anasayfaya gidin
 
